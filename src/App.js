@@ -6,11 +6,11 @@ import BlogPosts from "./pages/BlogPosts/BlogPosts";
 import Home from "./pages/Home/Home";
 import Job from "./pages/Job/Job";
 import Jobs from "./pages/Jobs/Jobs";
-import Footer from "./containers/footer";
 import About from "./pages/About";
 import Contact from "./pages/Contact/index";
 import { Provider } from "react-redux";
 import store from "./redux/reducer";
+import Footer from "./containers/Footer";
 
 function App() {
   return (
