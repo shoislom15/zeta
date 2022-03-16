@@ -8,7 +8,7 @@ import CustomizedAccordions from "../../components/Accordion";
 
 const FooterBtn = styled.button`
   background: ${(props) =>
-    props.background ? props.background : "rgb(33, 43, 55)"};
+    props.background ? props.background : "rgb(33, 43, 54)"};
   color: ${(props) => (props.color ? props.color : "white")};
   font-size: ${(props) => (props.fontSize ? props.fontSize : "0.9375rem")};
   border-radius: 8px;

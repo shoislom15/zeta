@@ -10,7 +10,7 @@ import About from "./pages/About";
 import Contact from "./pages/Contact/index";
 import { Provider } from "react-redux";
 import store from "./redux/reducer";
-import Footer from "./containers/Footer";
+import Footer from "./containers/footer";
 
 function App() {
   return (
